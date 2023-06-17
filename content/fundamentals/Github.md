@@ -1,24 +1,24 @@
-# :wave: O Basico do Github
+# :wave: The Basics of GitHub 
 
-## 🤓 Visão geral do curso e resultados de aprendizagem  
+## 🤓 Course overview and learning outcomes 
 
-O objetivo desse curso é trazer uma rápida introdução ao Github. Nós iremos também prover você com materiais para aprendizado e algumas ideias para começar nessa plataforma. 🚀
+The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform. 🚀
 
 ## :octocat: Git and GitHub
 
-Git é um **Sistema de Controle de Versão(VCS)**, que significa que ele é uma ferramenta util para acompanhar mudanças nos seu código, colaborando e compartilhando. Com Git você pode acompanhar as mudanças que você faz em seu projeto, então você sempre tem um registro do que você tem trabalhado e facilmente reverter as mudanças para uma versão antiga se for necessário. Isso também torna muito mais fácil o trabalho com outros grupo de pessoas que podem trabalhar juntos no mesmo projeto e mesclar as mudanças deles dentro do conteúdo final!!
+Git is a **distributed Version Control System (VCS)**, which means it is a useful tool for easily tracking changes to your code, collaborating, and sharing. With Git you can track the changes you make to your project so you always have a record of what you’ve worked on and can easily revert back to an older version if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source!
 
-GitHub é um caminho para usar o mesmo poder do Git, só que tudo online e com uma interface gráfica fácil de usar. É usado em todo o mundo do software, além para facilitar a colaboração e manutenção do histórico de projetos.
+GitHub is a way to use the same power of Git all online with an easy-to-use interface. It’s used across the software world and beyond to collaborate and maintain the history of projects.
 
-GitHub é a casa de algumas das tecnologias mais avançadas do mundo. Esteja você visualizando dados ou criando um novo jogo, há toda uma comunidade e um conjunto de ferramentas no GitHub que podem levá-lo à próxima etapa. Este conteúdo começa com o básico do GitHub, mas vamos nos aprofundar no resto mais tarde.
+GitHub is home to some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics of GitHub, but we'll dig into the rest later.
 
-## :octocat: Entendendo o fluxo do Github 
+## :octocat: Understanding the GitHub flow 
 
-O fluxo do GitHub é fluxo de trabalho leve que permite fácil experimentação e colaboração em seus projetos, sem o risco de perder seu trabalho prévio.
+The GitHub flow is a lightweight workflow that allows you to experiment and collaborate on your projects easily, without the risk of losing your previous work.
 
-### Repositórios
+### Repositories
 
-Um repositório é onde acontece o trabalho no seu projeto - pense nisso como o diretório(pasta) do seu projeto. Ele contém todos seus arquivos de projeto e histórico de revisão. Você pode trabalhar dentro de um repositório sozinho ou convidar outros para colaborar com você nesses arquivos.
+A repository is where your project work happens--think of it as your project folder. It contains all of your project’s files and revision history.  You can work within a repository alone or invite others to collaborate with you on those files.
 
 ### Cloning 
 
