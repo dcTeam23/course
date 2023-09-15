@@ -13,6 +13,19 @@
 
 ## Como contribuir
 
-<!-- TODO: escrever documentação sobre contribuições -->
+## Quick Start
+
+Click this repo in local machine or using codespace 
+
+## Local Development
+
+First, run `npm i` to install the dependencies.
+Second, run `npm run build` to first build.
+ 
+Then, run `npm dev` to start the development server and visit localhost:3000.
+
+## License
+
+This project is licensed under the MIT License.
 
 
