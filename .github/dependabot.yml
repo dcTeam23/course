@@ -1,0 +1,21 @@
+version: 2
+updates:
+  - package-ecosystem: npm
+    directory: /
+    schedule:
+      interval: weekly
+      # Check for npm updates at 13pm UTC
+      time: "13:00"
+    target-branch: "develop"
+    open-pull-requests-limit: 4
+    ignore:
+      # For all dependencies, ignore major updates
+      - dependency-name: "*"
+        update-types: ["version-update:semver-major"]
+    labels:
+      - "chore"
+      - "dependencies"
+    reviewers:
+      - "abraaoalves"
+    assignees:
+      - "abraaoalves"
