@@ -12,7 +12,18 @@
 	"postCreateCommand": "npm install && npm build",
 
 	// Configure tool-specific properties.
-	 "customizations": {}
+	 "customizations": {
+		"vscode": {
+			"extensions": [
+				"esbenp.prettier-vscode",
+				"dbaeumer.vscode-eslint",
+				"pflannery.vscode-versionlens",
+				"github.vscode-pull-request-github",
+				"unifiedjs.vscode-mdx",
+				"yoavbls.pretty-ts-errors"
+			]
+		}
+	 }
 
 	// Uncomment to connect as root instead. More info: https://aka.ms/dev-containers-non-root.
 	// "remoteUser": "root"
