@@ -20,7 +20,8 @@
 				"pflannery.vscode-versionlens",
 				"github.vscode-pull-request-github",
 				"unifiedjs.vscode-mdx",
-				"yoavbls.pretty-ts-errors"
+				"yoavbls.pretty-ts-errors",
+				"streetsidesoftware.code-spell-checker"
 			]
 		}
 	 }

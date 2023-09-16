@@ -1,0 +1,11 @@
+{
+  "recommendations": [
+      "esbenp.prettier-vscode",
+      "dbaeumer.vscode-eslint",
+      "pflannery.vscode-versionlens",
+      "github.vscode-pull-request-github",
+      "unifiedjs.vscode-mdx",
+      "yoavbls.pretty-ts-errors",
+      "streetsidesoftware.code-spell-checker"
+    ]
+}
